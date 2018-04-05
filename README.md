@@ -1,3 +1,5 @@
 # Machine-Learning-For-Cities
 
-Coursework. Online Courses. Kaggle Challenges
+MLC trees
+Dataset: NYC Street Tree Census 2015
+- Applying machine learning for tree health classification 
